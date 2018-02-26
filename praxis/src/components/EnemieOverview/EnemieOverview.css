@@ -1,0 +1,17 @@
+.enemie-overview-container {
+    display: inline-block;
+     width: 50%;
+     padding: 20px;
+     box-sizing: border-box;
+    background:#b32d00;
+ }
+
+ .enemie-overview-text {
+     overflow: hidden;
+     display: -webkit-box;
+     /* autoprefixer: off */
+    -webkit-box-orient: vertical;
+    /* autoprefixer: on */
+     margin-right: 10em;
+     margin-left: 10em;
+}
